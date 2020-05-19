@@ -14,8 +14,8 @@ At the start of the game, 1 or more NPCs are infected by virus. (But we don’t 
 NPC movement across houses will lead to spread of disease.
 
 Mentors:
-• Abhinav Sarkar [https://github.com/abh33] • Rucmenya Bessariya [https://github.com/Rucmenya] • Aditya Panwar
+• Abhinav Sarkar [https://github.com/abh33] • Rucmenya Bessariya [https://github.com/Rucmenya] • Aditya Panwar[https://github.com/adityap94]
 
 Team:
-• Anil Maity • Rajat Gurnani • Rohan
+• Anil Maity[https://github.com/Anilmaity] • Rajat Gurnani[https://github.com/RajatGurnani] • Rohan[https://github.com/rohansahni1999]
 
