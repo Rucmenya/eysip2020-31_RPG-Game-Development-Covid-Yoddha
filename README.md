@@ -1,2 +1,2 @@
-# -eysip2020-31_RPG-Game-Development-Covid-Yoddha
-The objective of this game is to try to contain the spread of corona in a neighborhood.
+# eysip2020-31_RPG-Game-Development-COVID-Yoddha
+The project is being developed under e-Yantra Summer Internship Program, a joint initiative by IIT Bombay and MHRD.
