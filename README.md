@@ -2,7 +2,7 @@
 The project is being developed under e-Yantra Summer Internship Program 2020, a joint initiative by IIT Bombay and MHRD.
 
 # Abstract:
-The objective of the game is to spread the awareness about defensive measures for the virus in playful way.
+The objective of the game is to spread the awareness about defensive measures for the virus in a playful way.
 
 ● Here the health worker tries to contain the spread of corona in a neighbourhood inhabited by NPC’s.
 ● Timer  - Timer is constantly running
