@@ -13,9 +13,9 @@ The objective of the game is to spread the awareness about defensive measures fo
 At the start of the game, 1 or more NPCs are infected by virus. (But we don’t know which).
 NPC movement across houses will lead to spread of disease.
 
-Mentors:
+# Mentors:
 • Abhinav Sarkar [https://github.com/abh33] • Rucmenya Bessariya [https://github.com/Rucmenya] • Aditya Panwar[https://github.com/adityap94]
 
-Team:
+# Team:
 • Anil Maity[https://github.com/Anilmaity] • Rajat Gurnani[https://github.com/RajatGurnani] • Rohan[https://github.com/rohansahni1999]
 
