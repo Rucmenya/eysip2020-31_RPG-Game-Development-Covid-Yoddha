@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: CHANGEColour
+  m_Shader: {fileID: -6465566751694194690, guid: 7f13216537c4d604b8e06da941191afe,
+    type: 3}
+  m_ShaderKeywords: ETC1_EXTERNAL_ALPHA
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _Main:
+        m_Texture: {fileID: 2800000, guid: 296dcc89d877a464e981d75d14b76788, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_333CE9B8_Texture_1:
+        m_Texture: {fileID: 2800000, guid: f0d0f40423524e844afac6959334d23d, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_83CF06EC_Texture_1:
+        m_Texture: {fileID: 2800000, guid: 86a71bda171de56429a91f561d544fc1, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_8AAD3D6F_Texture_1:
+        m_Texture: {fileID: 2800000, guid: 296dcc89d877a464e981d75d14b76788, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_BBB22D5C_Texture_1:
+        m_Texture: {fileID: 2800000, guid: c625e24ac738f4f4ea66dddace3f0eeb, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_E24AD35C_Texture_1:
+        m_Texture: {fileID: 2800000, guid: 83816e4d2a220ce4c92b9e3383a599e7, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _AgeSelector: 3
+    - _Fever: 0
+    - _Mask: 0
+    - _Selector: 2
+    m_Colors:
+    - Color_F039C210: {r: 0.061450627, g: 0.8705505, b: 0.08534809, a: 0}
+    - _Color: {r: 0.07075471, g: 1, b: 0.09691282, a: 0}

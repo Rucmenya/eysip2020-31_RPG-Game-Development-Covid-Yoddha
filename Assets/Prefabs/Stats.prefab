@@ -43,9 +43,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 007adfac10d48a340863db223fcdc920, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  MapBasicPosition: {x: 0.94499207, y: 2.6084812, z: 0}
-  InteriorPosition: {x: 0, y: 0, z: 0}
-  NPCInfectionList: 00000000000000000000000000000000000000000000000000000000000000000000000001000000
+  MapBasicPosition: {x: -3.76, y: 1.2099991}
+  InteriorPosition: {x: 0, y: 0}
+  GameTime: 12.448851
+  NPCInfectionList: 0000000000000000000000000000000000000000000000000100000000000000000000000000000000000000
   Uninfected: 9
   TotalInfectedMild: 1
   TotalInfectedModerate: 0
@@ -60,28 +61,57 @@ MonoBehaviour:
   TotalContact: 0
   MinRange: 40
   MaxRange: 60
-  StartTimeTask1: 7.7411036
-  PassTimeTask1: 4.536994
+  NPCInitialPosition:
+  - {x: -8.9, y: 2.14}
+  - {x: -3.848, y: 2.12}
+  - {x: 1.271, y: 1.85}
+  - {x: 6.389, y: 2.5}
+  - {x: 11.52, y: 2.14}
+  - {x: -8.91, y: -1.95}
+  - {x: -3.835, y: -1.89}
+  - {x: 1.261, y: -1.88}
+  - {x: 6.396, y: -2.04}
+  - {x: 11.53, y: -2.02}
+  - {x: 11.53, y: -2.02}
+  StartTimeTask1: 0
+  PassTimeTask1: 12.448851
   MaxTimeallow: 60
-  Origin: {x: -8.909938, y: -2.3674169, z: 0}
-  CurrentPosition: {x: 4.6938095, y: 2.4061687, z: -0.3984375}
-  Destination: {x: 10.49, y: 2.14, z: 0}
-  NPCNumber: 5
-  NPCNumberTarget: 4
+  Origin: {x: 6.396, y: -2.04}
+  CurrentPosition: {x: 4.6938095, y: 2.4061687}
+  Destination: {x: 11.53, y: -2.02}
+  NPCNumber: 8
+  NPCNumberTarget: 9
   DistanceRemain: 12.253468
   DistanceMin: 0.8
   Task1Complete: 0
-  Taskassign: 0
+  JourneyStage: 0
   NPCLocation:
-  - {x: -9.69, y: 2.37, z: 0}
-  - {x: -4.65, y: 2.12, z: 0}
-  - {x: 1.261, y: 2.133547, z: 0}
-  - {x: 5.78, y: 2.5, z: 0}
-  - {x: 10.49, y: 2.14, z: 0}
-  - {x: -8.909938, y: -2.3674169, z: 0}
-  - {x: -4.04, y: -2.28, z: 0}
-  - {x: 1.14, y: -2.32, z: 0}
-  - {x: 6.24, y: -2.31, z: 0}
-  - {x: 11.241729, y: -2.3578424, z: 0}
+  - {x: -8.9, y: 2.14}
+  - {x: -3.848, y: 2.12}
+  - {x: 1.271, y: 1.85}
+  - {x: 6.369, y: 2.48}
+  - {x: 11.52, y: 2.14}
+  - {x: -8.91, y: -2.1852012}
+  - {x: -4.159006, y: -1.877624}
+  - {x: 1.261, y: -1.88}
+  - {x: 7.1759996, y: 0.099998444}
+  - {x: 11.53, y: -2.02}
+  - {x: 11.53, y: -2.02}
   gotolocation: 0
   Scene: 0
+  GamePause: 0
+  CharecterPresent: 1
+  NPCInEnterHouse: 1
+  NPCInHouse: 6400000003000000640000006400000064000000050000006400000064000000640000006400000064000000
+  SetpointPosition:
+  - {x: 1.4e-43, y: 4e-45}
+  - {x: 1.4e-43, y: 1.4e-43}
+  - {x: 1.4e-43, y: 7e-45}
+  - {x: 1.4e-43, y: 1.4e-43}
+  - {x: 1.4e-43, y: 1.4e-43}
+  - {x: -8.91, y: -2.1852012}
+  - {x: -4.159006, y: -1.877624}
+  - {x: 1.261, y: -1.88}
+  - {x: 7.1759996, y: 0.099998444}
+  - {x: 11.53, y: -2.02}
+  - {x: 11.53, y: -2.02}

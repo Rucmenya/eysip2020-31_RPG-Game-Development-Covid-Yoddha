@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: af2c82871560a22499453a15fe477a2d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - effect: {fileID: 765996687146206421, guid: 2c3a093f31e60594db6cae28d1a4b86a, type: 3}
+  - CovidKit: {fileID: 8300000, guid: 546fb56a0e5ad4941a21cbebc6a835ab, type: 3}
+  - PPE: {fileID: 8300000, guid: a951368564a2d394fb32b706a6f1145a, type: 3}
+  - LowDrug: {fileID: 8300000, guid: 87d617b253d8d8e458df9e0d9336b9a7, type: 3}
+  - HighDrug: {fileID: 8300000, guid: 87d617b253d8d8e458df9e0d9336b9a7, type: 3}
+  - FirstAidKit: {fileID: 8300000, guid: 27f83104b8e51af4f9fab981dd6392f9, type: 3}
+  - Mask: {fileID: 8300000, guid: bbeee67fd45c07a438b9c3f72119c9e2, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -70,7 +70,7 @@ SpriteRenderer:
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: -1864619403
-  m_SortingLayer: 5
+  m_SortingLayer: 6
   m_SortingOrder: 0
   m_Sprite: {fileID: 0}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -97,7 +97,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   fakPrefab: {fileID: 2100832590846802948, guid: 0a589e4ff35091b4eaf00b79838ba673,
     type: 3}
-  covidKitPrefab: {fileID: 3261477769478916065, guid: 221a52c865ef9a544a9ca88bf555ed0a,
+  covidKitPrefab: {fileID: 2100832590846802948, guid: afde0129c5a932a4d91a8e8c871924c6,
     type: 3}
   lowDrugPrefab: {fileID: 2042332954653562542, guid: 8eff3a53339a9af4b963406a281b99e4,
     type: 3}
@@ -109,6 +109,8 @@ MonoBehaviour:
     type: 3}
   lowerSpawnTime: 1
   upperSpawnTime: 1
+  x: 7
+  y: 2
   fakLimit: 1
   covidKitLimit: 1
   lowDrugLimit: 1

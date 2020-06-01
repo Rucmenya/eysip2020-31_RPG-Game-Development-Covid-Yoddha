@@ -1,11 +1,15 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class Endpoint : MonoBehaviour
 {
  
-    public string SceneName;
+    //public string SceneName;
+    public EXP Exp;
+    Inventory inv;
+    public AudioClip DoorAudio;
 
 
     private void OnTriggerEnter2D(Collider2D other)
@@ -15,12 +19,12 @@ public class Endpoint : MonoBehaviour
         if (other.gameObject.name == "HCWorker")
 
         {
-            
-           
-            
-#pragma warning disable CS0618 // Type or member is obsolete
-            Application.LoadLevel(SceneName);
-#pragma warning restore CS0618 // Type or member is obsolete
+            other.gameObject.transform.position = Exp.MapBasicPosition;
+            inv = other.gameObject.GetComponent<Inventory>();
+            inv.PLayAudioCharacter(DoorAudio);
+            other.transform.position = Exp.MapBasicPosition;
+           // SceneManager.LoadScene(SceneName);
+
 
 
         }

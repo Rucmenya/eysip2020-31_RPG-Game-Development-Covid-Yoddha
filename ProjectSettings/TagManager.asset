@@ -18,8 +18,8 @@ TagManager:
   - Correction
   - Ground
   - Charecter
-  - 
-  - 
+  - Trees
+  - NPC
   - 
   - 
   - 
@@ -54,6 +54,12 @@ TagManager:
   - name: item_spawn
     uniqueID: 22180125
     locked: 0
+  - name: NPC
+    uniqueID: 1668647553
+    locked: 0
   - name: Character
     uniqueID: 2430347893
+    locked: 0
+  - name: Trees
+    uniqueID: 3416372953
     locked: 0

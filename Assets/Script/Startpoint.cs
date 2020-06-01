@@ -9,6 +9,6 @@ public class Startpoint : MonoBehaviour
     void Start()
     {
         HCWorker = FindObjectOfType<CharecterMovement>();
-        HCWorker.transform.position =new Vector3( transform.position.x ,transform.position.y - 1, 0);   
+        HCWorker.transform.position =new Vector2( transform.position.x ,transform.position.y);   
     }
 }
